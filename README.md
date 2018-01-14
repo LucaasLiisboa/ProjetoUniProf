@@ -6,9 +6,10 @@ O sistema foi idealizado para possibilitar que professores de escolas e universi
 
 Tecnologias:
 - Spring MVC
+- Bootstrap
+- Banco de Dados SQL Server
 - Servidor Tomcat 8
 - Maven
-- Banco de Dados SQL Server
 - HTML5
 - CSS3
-- Javascript 
+- Javascript
